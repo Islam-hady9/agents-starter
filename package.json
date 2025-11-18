@@ -38,7 +38,8 @@
     "wrangler": "^4.45.3"
   },
   "dependencies": {
-    "@ai-sdk/openai": "^2.0.59",
+    "@ai-sdk/groq": "^2.0.29",
+    "@ai-sdk/openai": "^2.0.68",
     "@ai-sdk/react": "^2.0.86",
     "@ai-sdk/ui-utils": "^1.2.11",
     "@phosphor-icons/react": "^2.1.10",
